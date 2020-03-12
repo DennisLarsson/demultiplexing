@@ -1,0 +1,6 @@
+download illumina2bam
+install java 8 sudo apt-get install openjdk-8-jdk openjdk-8-jre
+install ant (compiler) sudo apt-get install ant
+dowload Bcel and put bcel-6.2.jar (or whatever the version is) in /usr/share/ant/lib
+dont bother with ant test, it will get errors or not but the compilation in the next step should work in either case (hopefully)
+run 'ant jar' while in illumina2bam folder
