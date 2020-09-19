@@ -1,6 +1,7 @@
 #!/usr/local/bin/python3
 ## Made by Dennis Larsson @ Vienna University
-## 11 March 2020
+## 12 September 2020
+## version 1.2
 
 ##example: python3 /home/biogeoanalysis/RAD/script/process_radtag_prep1.2.py -o /home/biogeoanalysis/RAD/RAD1/ -p RAD1 -t /home/biogeoanalysis/RAD/RAD1/P12table_RAD1
 
