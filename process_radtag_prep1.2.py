@@ -2,7 +2,7 @@
 ## Made by Dennis Larsson @ Vienna University
 ## 11 March 2020
 
-##example: python3 /home/biogeoanalysis/RAD/script/process_radtag_prep.py -o /home/biogeoanalysis/RAD/RAD1/ -p RAD4 -t /home/biogeoanalysis/RAD/RAD4_2/P12table_RAD4
+##example: python3 /home/biogeoanalysis/RAD/script/process_radtag_prep1.2.py -o /home/biogeoanalysis/RAD/RAD1/ -p RAD1 -t /home/biogeoanalysis/RAD/RAD1/P12table_RAD1
 
 import os
 import sys
